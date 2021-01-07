@@ -1,6 +1,6 @@
-## www.Blogs.com
+# www.Blogs.com
 
-# Lietotās programēšanas valodas
+## Lietotās programēšanas valodas
 * HTML-
 CSS-
 -Java Script
